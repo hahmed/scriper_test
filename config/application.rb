@@ -2,6 +2,7 @@ require_relative "boot"
 
 require "rails/all"
 require_relative '../lib/slug_extractor'
+require_relative "../lib/greet/greet"
 
 # Require the gems listed in Gemfile, including any gems
 # you've limited to :test, :development, or :production.
